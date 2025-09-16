@@ -3,17 +3,17 @@ Explore the use of NN to estimate the redshift of different galaxies based on ph
 
 ---
 
-## Descripción del proyecto
+# Descripción del proyecto
 
 - Data: [link](https://drive.google.com/file/d/1MwcRINI1aGcdfMXlY70xMNF2INpZtnwK/view)
 - SkyServer: [link](https://skyserver.sdss.org/dr16/en/tools/search/SQS.aspx)
 - REF Sadeh-2016: ANNz2 - photometric redshift and probability distribution function estimation using machine learning. [link](https://arxiv.org/pdf/1507.00490)
 
-### Objetivo 
+## Objetivo 
 
 Entrenar y evaluar una red neuronal que estime el redshift fotométrico a partir de propiedades físicas de las galaxias usando datos de SDSS DR16. Para esto cuenta con una tabla compuesta por **150,000 galaxias y quasares**, con **66 features**.
 
-### Recomendaciones para el pre-procesamiento 
+## Recomendaciones para el pre-procesamiento 
 
 1. Exploración inicial del dataset: consultar fuente de los datos y revisión de la literatura.
 
@@ -35,5 +35,8 @@ Entrenar y evaluar una red neuronal que estime el redshift fotométrico a partir
 	- Luego que el objetivo principal haya sido completado, profundizar en el análisis por ejemplo: 
 		1. Cuantificar la incertidumbre de las predicciones (quizás RF) u obtener una distribución de probabilidad.
 		2. Comparación de resultados con los obtenidos usando métodos de machine learning convencionales.
+
+
+![Alt text](Figures/boss_metricsNominal_Nz.png "Title")
 
 
