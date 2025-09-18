@@ -11,7 +11,15 @@ Explore the use of NN to estimate the redshift of different galaxies based on ph
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8a8b5222-b746-4474-b4f9-f5d9cf9b3313" />
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/71618b4f-965e-4f40-bd03-9aa8dbe86524" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cdf0c793-d653-44bc-b19a-7973598688db" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/71618b4f-965e-4f40-bd03-9aa8dbe86524" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/33af1167-ddcc-4b34-ac5e-ac2b69768b7d" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/50d9ea20-f569-4c31-bd55-9e4a8f6dd5ad" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7fe5e0a6-941a-41e3-9ec1-00d404ce6818" />
 
 
 ## Objetivo 
