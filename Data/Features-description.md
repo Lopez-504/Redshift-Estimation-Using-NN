@@ -80,11 +80,12 @@ The measured variables are derived from the image data in two main ways:
 
   A. Total Brightness (Magnitudes): All magnitude variables (like psfMag, modelMag, dered, etc.) are ways of calculating the object's brightness.
 
-| Variable Name	| Calculation Method	| Purpose
-psfMag	| Calculates the brightness by fitting a model of a Point Spread Function (PSF) to the object's light.	| Best for point sources (stars, quasars) where the observed shape is dominated by the telescope's optics.
-modelMag	| Calculates the brightness using the best-fit galaxy light profile (either exponential or de Vaucouleurs).	| The recommended magnitude for most galaxies, as it best captures the total light.
-fiberMag	| Calculates the brightness contained only within the physical aperture (usually 3 arcseconds) of the spectrograph fiber.	| Used to determine if enough light was gathered to measure the redshift.
-dered_	| This is a correction applied after the raw magnitude is found, using the extinction_ value.	| Corrects for the dimming and reddening caused by dust in our own galaxy to get the object's intrinsic brightness.
+| Variable Name	| Calculation Method	| Purpose |
+| :--- | :---: | ---: |
+| psfMag	| Calculates the brightness by fitting a model of a Point Spread Function (PSF) to the object's light.	| Best for point sources (stars, quasars) where the observed shape is dominated by the telescope's optics.|
+| modelMag	| Calculates the brightness using the best-fit galaxy light profile (either exponential or de Vaucouleurs).	| The recommended magnitude for most galaxies, as it best captures the total light.|
+| fiberMag	| Calculates the brightness contained only within the physical aperture (usually 3 arcseconds) of the spectrograph fiber.	| Used to determine if enough light was gathered to measure the redshift.|
+| dered_	| This is a correction applied after the raw magnitude is found, using the extinction_ value.	| Corrects for the dimming and reddening caused by dust in our own galaxy to get the object's intrinsic brightness.|
 
 
   B. Size and Shape (Morphological Variables): The galaxy's physical light profile—the way its brightness drops from the center to the edge—is modeled to get the size and shape variables.
