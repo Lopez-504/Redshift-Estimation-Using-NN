@@ -1,4 +1,4 @@
-# Descipción de las 68 variables de nuestro dataset
+# Descripción de las 68 variables de nuestro dataset
 
 Description of the variables from the SDSS catalog. 
 The SDSS is a major astronomical survey that has mapped a significant portion of the sky, 
