@@ -176,7 +176,8 @@ plt.scatter(z_datos,z_pred, alpha=0.02)
 plt.plot(range(10),range(10),color='black')
 plt.xlabel('z_datos')
 plt.ylabel('z_pred')
-plt.show()
+plt.savefig('modelo_vs_real',dpi=300)
+
 
 
 
