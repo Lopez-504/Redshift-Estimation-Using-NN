@@ -9,7 +9,7 @@
 - Data entrada:          {cleanA_150k.csv}
 - Dimensión de Entrada:  {}
 - Split (train% - val%): ({.65}-{.2})
-- Epoch:                 {350}
+- Epoch:                 {500}
 - Bach_size:             {512}
 - Optimizador:           {adam}
 - Learn_rate:            {0.001}
@@ -26,7 +26,7 @@
 - Data entrada:          {cleanA_150k.csv}
 - Dimensión de Entrada:  {}
 - Split (train% - val%): ({.65}-{.2})
-- Epoch:                 {350}
+- Epoch:                 {500}
 - Bach_size:             {512}
 - Optimizador:           {RMSpro}
 - Learn_rate:            {0.003}
