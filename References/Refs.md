@@ -22,4 +22,6 @@ real-space clustering measurements [link](https://arxiv.org/pdf/0903.3121)
 
 - Mobasher 2007: PHOTOMETRIC REDSHIFTS OF GALAXIES IN COSMOS [link](https://iopscience.iop.org/article/10.1086/516590/pdf)
 
-- 
+# Referencias aún más adicionales
+
+- Salfate 2020: Improving wind speed forecasts from the Weather Research and Forecasting model at a wind farm in the semiarid Coquimbo region in central Chile [link](https://onlinelibrary.wiley.com/doi/epdf/10.1002/we.2527)
