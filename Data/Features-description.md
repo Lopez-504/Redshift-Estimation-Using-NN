@@ -32,7 +32,7 @@ Magnitudes are a logarithmic scale of brightness. A smaller number indicates a b
 ## Morphological and Shape Data
 These variables describe the size and shape of the galaxy.
 
-* **expRad_u, expRad_g, expRad_r, expRad_z**: **Exponential scale radius**. The radius of an object assuming it has an exponential light profile, which is typical for disk galaxies and the bulges of spiral galaxies.
+* **expRad_g, expRad_i, expRad_r, expRad_z**: **Exponential scale radius**. The radius of an object assuming it has an exponential light profile, which is typical for disk galaxies and the bulges of spiral galaxies.
 * **expRadErr_u, expRadErr_g, expRadErr_r, expRadErr_z**: The **errors** associated with the exponential scale radius.
 * **deVRad_g, deVRad_i, deVRad_r, deVRad_z**: **de Vaucouleurs scale radius**. The radius of an object assuming it has a de Vaucouleurs light profile, which is typical for elliptical galaxies.
 * **deVRadErr_g, deVRadErr_i, deVRadErr_r, deVRadErr_z**: The **errors** associated with the de Vaucouleurs scale radius.
